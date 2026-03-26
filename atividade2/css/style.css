@@ -1,0 +1,85 @@
+.navbar{
+    background-color: rgb(6, 20, 99);
+    padding: 20px;
+}
+#mensagem{
+    color:cornflowerblue;
+}
+footer{
+     padding: 20px; background-color:  rgb(6, 20, 99);
+}
+.pfooter{
+    text-align: center; 
+    color: rgb(168, 223, 223); 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px; 
+    margin-top: 10px;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px; 
+    color: rgb(168, 223, 223);
+    }
+a{
+    text-decoration: none; 
+    color:rgb(5, 106, 173); 
+    background-color: azure; 
+    padding: 12px; 
+    border-radius: 30px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.contato{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(17, 11, 104);
+}
+.contatotext{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: rgb(35, 71, 138);
+}
+.label{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.input{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    padding: 14px 32px;
+}
+.btn{
+    background-color: rgb(9, 116, 179);
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color: rgb(9, 116, 179);
+}
+input,textarea,select{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+.textLaIn{
+    color: #ccc;
+}
+form{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(20, 61, 197);
+    padding: 60px;
+    border-radius: 10px;
+    padding-left: 60px;
+    margin-bottom: 60px;
+    box-sizing: border-box;
+}
